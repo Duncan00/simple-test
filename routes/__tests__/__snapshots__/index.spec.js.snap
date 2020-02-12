@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GET / When third party API responses 200 should response OK: 200 OK 1`] = `
+Object {
+  "message": "OK",
+}
+`;
+
+exports[`GET / When third party API responses 404 should response message Not Found: 404 Not Found 1`] = `
+Object {
+  "message": "Not Found",
+}
+`;
